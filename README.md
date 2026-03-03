@@ -1,6 +1,8 @@
 # Jason Graff
 
-Backend-focused software engineering student (Penn State World Campus) and U.S. Army logistics/operations leader transitioning into private tech.
+Backend-focused software engineering student at Penn State World Campus and U.S. Army operations leader building production-style backend services.
+
+Focused on building production-style APIs using Python, FastAPI, PostgreSQL, and cloud-based architectures.
 
 ## Focus
 - Backend engineering (Python, FastAPI)
@@ -9,7 +11,7 @@ Backend-focused software engineering student (Penn State World Campus) and U.S. 
 - API design, clean architecture, and data persistence
 
 ## Featured Projects
-- **Readiness API** — REST API for personnel readiness tracking (FastAPI + PostgreSQL + JWT + RBAC)
+- **[Readiness API](https://github.com/GraphiteTuff/readiness-api)** — Production-style FastAPI backend service modeling personnel readiness records with schema validation, modular routing, and extensible architecture.
 - **Inventory / Operations API** — authenticated CRUD API with SQL persistence
 - **Data Structures Library (C++)** — core DS implementations with tests/benchmarks
 
