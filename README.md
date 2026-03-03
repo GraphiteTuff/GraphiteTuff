@@ -1,16 +1,22 @@
-## Hi there 👋
+# Jason Graff
 
-<!--
-**GraphiteTuff/GraphiteTuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused software engineering student (Penn State World Campus) and U.S. Army logistics/operations leader transitioning into private tech.
 
-Here are some ideas to get you started:
+## Focus
+- Backend engineering (Python, FastAPI)
+- Databases (PostgreSQL, SQL)
+- Cloud fundamentals (AWS)
+- API design, clean architecture, and data persistence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **Readiness API** — REST API for personnel readiness tracking (FastAPI + PostgreSQL + JWT + RBAC)
+- **Inventory / Operations API** — authenticated CRUD API with SQL persistence
+- **Data Structures Library (C++)** — core DS implementations with tests/benchmarks
+
+## What I'm Working On Next
+- Docker + CI/CD for Readiness API
+- Deploying to AWS
+- System design fundamentals (caching, queues, scaling)
+
+## Links
+- LinkedIn: <your-linkedinhttps://www.linkedin.com/in/jason-graff-312997248/>
