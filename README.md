@@ -19,4 +19,4 @@ Backend-focused software engineering student (Penn State World Campus) and U.S. 
 - System design fundamentals (caching, queues, scaling)
 
 ## Links
-- LinkedIn: <your-linkedinhttps://www.linkedin.com/in/jason-graff-312997248/>
+- LinkedIn: [Jason Graff](https://www.linkedin.com/in/jason-graff-312997248/)
